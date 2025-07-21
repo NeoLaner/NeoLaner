@@ -1,6 +1,12 @@
 ![header](https://github.com/NeoLaner/NeoLaner/blob/main/assets/header.png#gh-dark-mode-only)
 ![header](https://github.com/NeoLaner/NeoLaner/blob/main/assets/header.png#gh-light-mode-only)
 
+<div align="center">
+
+## Hi, My name is Yasin
+
+</div>
+
 > I started my programming journey in 2019, driven by a deep curiosity for how technology shapes our world. Since then, I've become passionate about building scalable and innovative solutions, especially in the web industry and blockchain space. I enjoy exploring new technologies and frameworks, and I thrive on solving complex problems.
 > 
 > My interests include decentralized applications, modern web development, and open-source collaboration. I have hands-on experience with Rust and love working with software in low-level languages, which allows me to understand systems from the ground up. I'm always eager to learn, share knowledge, and contribute to projects that push the boundaries of what's possible.
