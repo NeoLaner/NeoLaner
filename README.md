@@ -28,7 +28,6 @@
 ![Prisma](https://img.shields.io/static/v1?logo=prisma&label=&message=Prisma&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Socket.io](https://img.shields.io/static/v1?logo=socket.io&label=&message=Socket.io&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=TailwindCSS&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Graphql](https://img.shields.io/static/v1?logo=graphql&label=&message=Graphql&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Turbopack](https://img.shields.io/static/v1?logo=turbopack&label=&message=Turbopack&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
