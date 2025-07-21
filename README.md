@@ -1,5 +1,5 @@
-![header](https://github.com/NeoLaner/NeoLaner/blob/main/assets/header.jpg#gh-dark-mode-only)
-![header](https://github.com/NeoLaner/NeoLaner/blob/main/assets/header.jpg#gh-light-mode-only)
+![header](https://github.com/NeoLaner/NeoLaner/blob/main/assets/header.png#gh-dark-mode-only)
+![header](https://github.com/NeoLaner/NeoLaner/blob/main/assets/header.png#gh-light-mode-only)
 
 > I started my programming journey in 2019, driven by a deep curiosity for how technology shapes our world. Since then, I've become passionate about building scalable and innovative solutions, especially in the web industry and blockchain space. I enjoy exploring new technologies and frameworks, and I thrive on solving complex problems.
 > 
